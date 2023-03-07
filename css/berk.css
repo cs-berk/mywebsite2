@@ -19,3 +19,8 @@ td {
     padding: 5px;
     border: 1px solid;
 }
+
+td img {
+    width: 200px;
+    height: 300px;
+}
