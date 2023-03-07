@@ -1,0 +1,21 @@
+body {
+    font-family: cursive ;
+    background-color: beige;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    background-color: burlywood;
+    padding: 200x;
+}
+table {
+    margin: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+td {
+    padding: 5px;
+    border: 1px solid;
+}
